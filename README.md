@@ -2,6 +2,6 @@
 **Negritas** _Cursiva_ _**Negritas Cursiva**_
 
 * Lis
-* *ta
+* ta
   * Í
   * tem
