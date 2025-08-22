@@ -43,7 +43,13 @@ https://github.com
 > clear
 > java Main
 
-
+## Fenced code blocks
 ```bash
 javac *.java
 ```
+
+# Task list
+-[ ] Tarea1
+-[ ] Tarea2
+-[ ] Actividad3
+-[ ] Actividad4
