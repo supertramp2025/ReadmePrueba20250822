@@ -49,7 +49,7 @@ javac *.java
 ```
 
 # Task list
--[ ] Tarea1
--[ ] Tarea2
--[ ] Actividad3
--[ ] Actividad4
+- [X] Tarea1
+- [ ] Tarea2
+- [X] Actividad3
+- [ ] Actividad4
